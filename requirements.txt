@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+nbpresent
+ipywidgets==7.2
